@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
 
 	public static void main(String[] args) {
-		String x;
+		String x, s1, s2, s3;
 		int y;
 		double z;
 		
@@ -17,7 +17,13 @@ public class Main {
 		
 		System.out.println("Dados digitados");
 		System.out.printf("%s, %d, %f", x, y, z);
+		
+		
+		
+		
 		sc.close();
+		
+		
 
 	}
 
